@@ -1,4 +1,7 @@
 # Cassini 2024 Front-end
+## Note 
+Jupyter notebook that we used to visualize satellite data is satdat.ipynb.
+
 ## Usage
 
 In the project directory, run:
